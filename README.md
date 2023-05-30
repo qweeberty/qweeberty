@@ -3,7 +3,7 @@
 - Family
 - Technology
 - Intersection of art and technology
-- Provide the highest value and quality
+- Simplicity, value, and quality
 - AI, AR, VR, and games
 - websites: 
 - http://www.cr-applications.com/
