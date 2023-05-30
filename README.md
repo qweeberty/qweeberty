@@ -1,8 +1,10 @@
-- Hi, I’m Eber Cota.
-- God first
-- I enjoy technology
-- I want to bring value to the world with my work
-- in AI, AR, and VR and lead as an example
+- I’m Eber Cota.
+- God
+- Family
+- Technology
+- Intersection of art and technology
+- Provide the highest value and quality
+- AI, AR, VR, and games
 - websites: 
 - http://www.cr-applications.com/
 - https://www.dogapp0.com/
