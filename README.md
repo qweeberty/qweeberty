@@ -4,7 +4,6 @@
 - Technology
 - Intersection of art and technology
 - Simplicity, value, and quality
-- AI, AR, VR, and games
 - websites: 
 - http://www.cr-applications.com/
 - https://www.dogapp0.com/
